@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p ginteff Compute two- and three-way interaction effects Use ginteff With STATA 19

@@ -1,0 +1,6 @@
+D 'ginteff': Compute two- and three-way interaction effects Use ginteff With STATA 19
+D
+F ginteff.ado
+F ginteff.sthlp
+F ginteffplot.ado
+F ginteffplot.sthlp
